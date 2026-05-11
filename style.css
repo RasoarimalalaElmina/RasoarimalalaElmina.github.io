@@ -1,0 +1,169 @@
+.name{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    align-items: center;
+    padding: 40px;
+    border-radius: 20px;
+    display: flex;
+    cursor: pointer;
+}
+body{
+    background: url(img4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.profile-pic{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-right:20px;
+
+}
+.main{
+    margin-left: 30px;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: 5px 3px 6px;
+    cursor: pointer;
+    backdrop-filter: blur(25px);
+    background: transparent;
+}
+.name{
+    transform: translate(-10px);
+    background: rgb(red, green, blue);
+   
+}
+.main:hover{
+    transform: translate(-10px);
+    background: rgb(red, green, blue);
+}
+.mine:hover{
+    transform: translate(-10px);
+}
+.mine{
+    margin-left: 30px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition:0.3s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px; 
+    cursor: pointer;
+    backdrop-filter: blur(25px);
+    background: transparent;
+    color: white;
+
+} 
+.mine h2{
+     margin-left: 40px;
+}
+
+.lan{
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition:0.3s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px; 
+    cursor: pointer;
+    background: transparent;
+    backdrop-filter: blur(25px);
+    color:white;
+}
+.lan:hover{
+    transform: translate(-10px);
+    background: rgb(red, green, blue);
+}
+.obj:hover{
+    transform: translate(-10px);
+    background: rgb(red, green, blue);
+}
+.obj{
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition:0.3s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px; 
+    cursor: pointer;
+    background: transparent;
+    backdrop-filter: blur(25px);
+    color: white;
+}
+.pro{
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition:0.3s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px; 
+    cursor: pointer;
+    background: transparent;
+    backdrop-filter: blur(25px);
+    color: white;
+
+}
+.pro:hover{
+    transform: translate(-10px);
+    background: rgb(red, green, blue);
+}
+.qual{
+    background: beige;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition:0.3s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px; 
+    cursor: pointer;
+     background: transparent;
+    backdrop-filter: blur(25px);
+    color: white;
+}
+.qual:hover{
+    transform: translate(-10px);
+    background: rgb(red, green, blue);
+}
+.centre{
+    background:beige;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+    transition:0.3s;
+    font-size: 17px;
+    box-shadow: 5px 3px 6px; 
+    cursor: pointer;
+     background: transparent;
+    backdrop-filter: blur(25px);
+    color: white;
+}
+.centre:hover{
+    transform: translate(-10px);
+    background: rgb(red, green, blue);
+}
+
+
